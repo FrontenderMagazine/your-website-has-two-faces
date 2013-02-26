@@ -197,41 +197,41 @@ The [Google Geocoding API][13], for example, might translate it to something
 like the following, with a high level of granularity for mapping applications:
 
   "address_components" : [
-    {
-       "long_name" : "20",
-       "short_name" : "20",
-       "types" : [ "street_number" ]
-    },
-    {
-       "long_name" : "Avenue Appia",
-       "short_name" : "Avenue Appia",
-       "types" : [ "route" ]
-    },
-    {
-       "long_name" : "Geneva",
-       "short_name" : "Geneva",
-       "types" : [ "locality", "political" ]
-    },
-    {
-       "long_name" : "Genève",
-       "short_name" : "Genève",
-       "types" : [ "administrative_area_level_2", "political" ]
-    },
-    {
-       "long_name" : "Geneva",
-       "short_name" : "GE",
-       "types" : [ "administrative_area_level_1", "political" ]
-    },
-    {
-       "long_name" : "Switzerland",
-       "short_name" : "CH",
-       "types" : [ "country", "political" ]
-    },
-    {
-       "long_name" : "1202",
-       "short_name" : "1202",
-       "types" : [ "postal_code" ]
-    }
+  {
+  "long_name" : "20",
+  "short_name" : "20",
+  "types" : [ "street_number" ]
+  },
+  {
+  "long_name" : "Avenue Appia",
+  "short_name" : "Avenue Appia",
+  "types" : [ "route" ]
+  },
+  {
+  "long_name" : "Geneva",
+  "short_name" : "Geneva",
+  "types" : [ "locality", "political" ]
+  },
+  {
+  "long_name" : "Genève",
+  "short_name" : "Genève",
+  "types" : [ "administrative_area_level_2", "political" ]
+  },
+  {
+  "long_name" : "Geneva",
+  "short_name" : "GE",
+  "types" : [ "administrative_area_level_1", "political" ]
+  },
+  {
+  "long_name" : "Switzerland",
+  "short_name" : "CH",
+  "types" : [ "country", "political" ]
+  },
+  {
+  "long_name" : "1202",
+  "short_name" : "1202",
+  "types" : [ "postal_code" ]
+  }
   ]
 
 The details (and license terms) of such standardization systems will vary and 
