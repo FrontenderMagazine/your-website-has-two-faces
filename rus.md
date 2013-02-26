@@ -1,4 +1,4 @@
-# Две стороны вашего сайта
+# Два "лица" вашего сайта
 
 Совсем как у римского бога [Януса][1] (а также у большинства политиков), у 
 каждого веб-приложения два обличья: его "человеческая"" сторона созданная для 
@@ -84,7 +84,7 @@
 незамедлительной выдачей обратной информации о том, что происходит. Рассмотрим 
 поле в которое необходимо ввести число и денежную единицу:
 
-![Form input requesting a currency value](img/01-currency-input.png?raw=true&repo=Your Website has Two Faces "Form input requesting a currency value")
+![Form input requesting a currency value](img/01-currency-input_ru.png?raw=true&repo=Your Website has Two Faces "Form input requesting a currency value")
 
 [В HTML 5 появились][5] новые атрибуты для элемента `input`, среди них `type` 
 для `number` и атрибут `pattern`, с помощью которых разработчик может указать 
@@ -122,7 +122,7 @@
 значения в числовое может привести к неожиданному - и даже потенциально 
 нежелательному - для пользователя результату:
 
-![Overly aggressive reduction of text input to a number leads to unexpected results](img/02-donation.png?raw=true&repo=Your Website has Two Faces "Overly aggressive reduction of text input to a number leads to unexpected results")
+![Overly aggressive reduction of text input to a number leads to unexpected results](img/02-donation_ru.png?raw=true&repo=Your Website has Two Faces "Overly aggressive reduction of text input to a number leads to unexpected results")
 
 ## Даты
 
@@ -181,7 +181,7 @@
 строения базы данных чем от заботы об удобстве пользователей. Взгляните на этот 
 распостраненный шаблон:
 
-![Typical set of inputs for capturing an address](img/03-address.png?raw=true&repo=Your Website has Two Faces "Typical set of inputs for capturing an address")
+![Typical set of inputs for capturing an address](img/03-address_ru.png?raw=true&repo=Your Website has Two Faces "Typical set of inputs for capturing an address")
 
 Такой набор полей подходит для большинства адресов в США, но далеко не для всех 
 адресов [других стран мира][12]. И даже в США для некоторых официальных адресов 
@@ -205,7 +205,9 @@
 Рассмотрим следующий адрес:
 
 *Avenue Appia 20
+
 1211 Genève 27
+
 SUISSE*
 
 [API геокодирования Google][13], например, может преобразовать его в нечто 
@@ -258,7 +260,7 @@ SUISSE*
 базу данных отдельно от названия улицы для того чтобы их можно было использовать 
 в дальнейшем. 
 
-Исключение или правило 
+## Исключение или правило 
 
 Преобразование человеческого языка в структурированные данные не всегда проходит 
 успешно. Согласно директиве №4, устойчивая система должна быть способной 

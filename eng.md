@@ -130,7 +130,7 @@ required.
 We can do that by revisiting some typical methods of requesting a date from 
 users:
 
-* A text input, often with specific formatting requirements (*MM/DD/YYYY*, for 
+* A text input, often with specific formatting requirements (MM/DD/YYYY, for 
 example)
 * A miniature calendar widget, arranging dates in a month-by-month grid
 
@@ -163,7 +163,7 @@ quite sophisticated, they do have limitations—so when using them, it’s also
 helpful to provide users with examples of the most reliable patterns, even 
 though the system can accept other forms of input.
 
-Addresses
+## Addresses
 
 Perhaps more often than any other type of input, address fields tend to be based 
 on database design rather than the convenience of human users. Consider this 
@@ -190,7 +190,9 @@ single input or a minimal set of structured elements.
 Consider the following address:
 
 *Avenue Appia 20
+
 1211 Genève 27
+
 SUISSE*
 
 The [Google Geocoding API][13], for example, might translate it to something 
@@ -242,7 +244,7 @@ application’s responsibility to first try to make sense of reasonable input.
 Users aren’t likely to care whether a CRM database wants to hold their suite 
 number separately from the street name.
 
-The exception or the rule
+## The exception or the rule
 
 Parsing human language into structured data won’t always work. Under guideline 
 number four, a robust system will detect and handle edge cases gracefully and 
