@@ -189,11 +189,11 @@ single input or a minimal set of structured elements.
 
 Consider the following address:
 
-*Avenue Appia 20
+*Avenue Appia 20*
 
-1211 Genève 27
+*1211 Genève 27*
 
-SUISSE*
+*SUISSE*
 
 The [Google Geocoding API][13], for example, might translate it to something 
 like the following, with a high level of granularity for mapping applications:
