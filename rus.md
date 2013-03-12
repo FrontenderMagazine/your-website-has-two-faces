@@ -304,7 +304,7 @@
 [4]: http://en.wikipedia.org/wiki/Data_type
 [5]: http://alistapart.com/article/forward-thinking-form-validation
 [6]: http://www.quirksmode.org/html5/inputs.html
-[7]: www.alistapart.com/articles/inline-validation-in-web-forms/
+[7]: http://www.alistapart.com/articles/inline-validation-in-web-forms/
 [8]: http://www.epochconverter.com/
 [9]: http://lee.jarvis.co/chronic/
 [10]: http://php.net/manual/en/function.strtotime.php
