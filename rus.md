@@ -202,43 +202,43 @@
 следующему, с высокой детализацией для картографических приложений:
 
     {
-    "address_components" : [
-      {
-         "long_name" : "20",
-         "short_name" : "20",
-         "types" : [ "street_number" ]
-      },
-      {
-         "long_name" : "Avenue Appia",
-         "short_name" : "Avenue Appia",
-         "types" : [ "route" ]
-      },
-      {
-         "long_name" : "Geneva",
-         "short_name" : "Geneva",
-         "types" : [ "locality", "political" ]
-      },
-      {
-         "long_name" : "Genève",
-         "short_name" : "Genève",
-         "types" : [ "administrative_area_level_2", "political" ]
-      },
-      {
-         "long_name" : "Geneva",
-         "short_name" : "GE",
-         "types" : [ "administrative_area_level_1", "political" ]
-      },
-      {
-         "long_name" : "Switzerland",
-         "short_name" : "CH",
-         "types" : [ "country", "political" ]
-      },
-      {
-         "long_name" : "1202",
-         "short_name" : "1202",
-         "types" : [ "postal_code" ]
-      }
-    ]
+        "address_components" : [
+            {
+                "long_name" : "20",
+                "short_name" : "20",
+                "types" : [ "street_number" ]
+            },
+            {
+                "long_name" : "Avenue Appia",
+                "short_name" : "Avenue Appia",
+                "types" : [ "route" ]
+            },
+            {
+             "long_name" : "Geneva",
+             "short_name" : "Geneva",
+             "types" : [ "locality", "political" ]
+            },
+            {
+                "long_name" : "Genève",
+                "short_name" : "Genève",
+                "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+                "long_name" : "Geneva",
+                "short_name" : "GE",
+                "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+                "long_name" : "Switzerland",
+                "short_name" : "CH",
+                "types" : [ "country", "political" ]
+            },
+            {
+                "long_name" : "1202",
+                "short_name" : "1202",
+                "types" : [ "postal_code" ]
+            }
+        ]
     }
 
 Компоненты (и условия лицензии) таких систем стандартизации различаются и могут подходить
