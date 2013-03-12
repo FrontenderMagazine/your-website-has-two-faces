@@ -297,6 +297,7 @@
 изучить из-за неоценимой помощи в работе с текстом вне зависимости от того программист
 вы или писатель. В сети доступна масса [уроков][18], [документации][19] и [инструментов тестирования][20]*
 
+> Translated with the permission of A List Apart and the author[s].
 
 [1]: http://en.wikipedia.org/wiki/Janus
 [2]: http://tools.ietf.org/html/rfc761
